@@ -1,5 +1,6 @@
 # Forecasting Electric Load using Machine Learning
-
+Prediction of load conception when input like - temperature (°C), humidity (%), wind
+speed (m/s), general diffuse flows, diffuse flows and Date and time .
 # Why This Project
 
 Accurate electric load prediction is essential for efficient power system operation, planning, and sustainable energy management. While the integration of renewable resources and the complexities of modern grids demand smarter solutions, traditional forecasting approaches often lack adaptability and predictive depth. This study addresses this gap by developing and evaluating robust machine learning models—Linear Regression, Support Vector Regression (SVR), and Random Forest—for short-term electric load forecasting using real-world temporal and weather-related data. The research emphasizes comprehensive data preprocessing, feature engineering from time series, and systematic model optimization with advanced techniques like RandomizedSearchCV for hyperparameter tuning. Rigorous assessment through statistical metrics such as 
