@@ -6,6 +6,14 @@ Accurate electric load prediction is essential for efficient power system operat
 R
 2 , mean absolute error (MAE), and mean squared error (MSE) demonstrates each model’s strengths and weaknesses in practical scenarios. The results highlight the Random Forest model’s superior forecasting accuracy, driven by its ensemble nature and flexibility in capturing nonlinear patterns. Visualizations of loss curves and prediction scatter plots provide actionable insights into model behavior and generalization. By leveraging these predictive analytics, utilities and policymakers can make proactive, data-driven decisions to meet dynamic demand, improve resource allocation, and support the transition toward more resilient, sustainable power systems. Ultimately, this work showcases how modern machine learning can deliver precise, transparent, and scalable solutions for the evolving challenges of electric load management.
 
+# Evaluation Method
+## Evaluation Metrix
+   - R2 or coefficient of determination
+   - Mean Absolute Error (MAE)
+## Visual Graphs 
+   - Training vs. Validation loss plot
+   - Actual vs. Predicted value plot
+   - Validation Performance metrics
 
 # Results
 <img width="1589" height="1174" alt="model analysis" src="https://github.com/user-attachments/assets/a96e285c-0b27-4092-821c-d13f9a1d23a6" />
